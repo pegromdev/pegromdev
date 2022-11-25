@@ -10,7 +10,7 @@
 module.exports = {
   pathPrefix: "/pegromdev",
   siteMetadata: {
-    title: `PegromDev Blog`,
+    title: `PegromDev`,
     author: {
       name: `pegromDev`,
       summary: `who invites you to `,
