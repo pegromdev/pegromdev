@@ -30,4 +30,4 @@ So now you thinking Cyber Security make sense don't you?;safeguarding important 
 From some of the world leaders: "cyber risk is the greatest risk facing our economy." Or not but is definitely changing it!.. You might want to take a deeper look specially at digital privacy and the whole yards.... Here we start our journey basically pointing out that digital data is how we run things and yes it needs to be secure because is not. I am sure you will learn to protect yours and help others do as well. I am not detailing farther because there is a lot to go thru so lets move on.
 In the most humble way lets start by taking a look at files more deeply and how its processed by operating systems or more exactly by Linux machines shall we?
 
-[Files and formats!]().
+[Files and formats!]().**Comming Soon!**
