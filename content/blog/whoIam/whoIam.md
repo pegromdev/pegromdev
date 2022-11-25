@@ -3,6 +3,7 @@ title: Who I am
 date: "2022-11-24T22:12:03.284Z"
 description: "Introducing My Self"
 ---
+
 My name is Nicolas also know as pegrom or some call me a nerd or a geek depending on the subject.. 
 People see my self as a very technical oriented person, because you are what people see and think of you or are you not? JUST KIDDING!
 
